@@ -20,7 +20,7 @@ int pozicija = 90;
 Adafruit_VL53L0X lox = Adafruit_VL53L0X();
 const int buzzerPin = 16;
 const int buttonPin = 4;   
-const int pragUdaljenosti = 1000; // 1000mm = 1 metar (granica detekcije)
+const int pragUdaljenosti = 1000; //1000mm = 1 metar (granica detekcije)
 bool alarmAktivan = false;
 
 void setup() {
