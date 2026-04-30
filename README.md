@@ -16,7 +16,6 @@ Ovaj repozitorij sadrži izvorni C++ kod za maturski rad na temu automatizacije 
 * **Senzor svjetlosti:** Fotootpornik (LDR) u formi naponskog djelitelja
 * **Aktuator:** Micro Servo motor (SG90)
 * **Ostalo:** Aktivna zujalica (Buzzer), LED dioda, taster (Push button)
-* **Napajanje:** USB (3.3V logika za ESP32) + Eksterna 9V baterija uz Step-down konverter na 5V za napajanje servo motora.
 
 ## 💻 Potreban softver i biblioteke
 
